@@ -33,6 +33,7 @@ Using a 3-month Simple Moving Average chart, the average sales for the next quar
 - Consider spending on more marketing for Carretera to boost sales and increase overall profit margin.
 ## Conclusion
 Through this finalcial analysis, we are able to uncover trends in sales market demographics, product popularity and segment strength. These insights can inform stakeolders particularly Sales and Marketing Execs on how to optimize business development and advertising allocate financial resources and increase the bottom line. 
+[Click to download full report](https://github.com/SamuelOni/GearTickler-Inc-Financial-Analysis/blob/main/Financial%20Sample%20Analysis%20%26%20Report.xlsx)
 
 
 
