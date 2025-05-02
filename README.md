@@ -1,4 +1,4 @@
-# Sales Analysis Report
+# Financial Analysis Report
 ## Table of Content
 - [Project Overview](https://github.com/SamuelOni/data_analytics/edit/main/README.md#project-overview)
 - [Data Source](https://github.com/SamuelOni/data_analytics/edit/main/README.md#data-source)
